@@ -1,13 +1,12 @@
-# s4107070-s3977367-a2
 Full Stack Development Assignment 2 (React TS + Node/Express + Cloud MySQL)
 
 Group Information:
 Christian Nabati(S4107070) and Kien Hung Ly(S3977367)
 
-Assignment 1 unit tests are written in the front end.
+Front End unit tests:
 use command: npm test
 
-Assignment 2 unit tests are written in the node-express-typeorm file
+node-express-typeorm file unit tests
 use command: npm test
 
 For chart to be working (if npm install does not install everything from package.json for some reason)

@@ -4,9 +4,6 @@ Full Stack Development Assignment 2 (React TS + Node/Express + Cloud MySQL)
 Group Information:
 Christian Nabati(S4107070) and Kien Hung Ly(S3977367)
 
-Github Repositary Link:
-https://github.com/rmit-fsd-2025-s1/s4107070-s3977367-a2
-
 Assignment 1 unit tests are written in the front end.
 use command: npm test
 
